@@ -1,9 +1,9 @@
 ![MasterHead](https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/reactt2_1200x303.png?sfvrsn=3ddeaf3b_2)
 <h1 align="center">Hi 👋, I'm Fakhruddin Shovon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1177886803424976896/1182777760284954644/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.png?ex=6585eea1&is=657379a1&hm=287e11e44b8df1c65caf83a723ca2947bf4b4755419aa019f0325f3f029617e6&=&format=webp&quality=lossless&width=556&height=417" />
+<img alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shovon96&label=Profile%20views&color=0e75b6&style=flat" alt="shovon96" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=shovon96&label=Profile%20views&color=0e75b6&style=flat" alt="shovon96" /> </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
