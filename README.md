@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Fakhruddin+Shovon;Full+Stack+Developer+from+Bangladesh;Specialized+in+Next.js+%26+TypeScript;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Fakhruddin+Ahmed;Full+Stack+Developer+from+Bangladesh;Specialized+in+Next.js+%26+TypeScript;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
 <h3 align="center">A Passionate Full Stack Developer from Bangladesh</h3>
